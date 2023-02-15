@@ -1,0 +1,2 @@
+# LaraINV
+Inventory Management
