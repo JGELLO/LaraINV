@@ -27,17 +27,17 @@
                 <li
                     class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs"
                 >
-                    <a href="#">API</a>
+                    <a href="#">Advance API</a>
                 </li>
                 <li
                     class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs"
                 >
-                    <a href="#">Backend</a>
+                    <a href="#">PHP Backend</a>
                 </li>
                 <li
                     class="flex items-center justify-center bg-black text-white rounded-xl py-1 px-3 mr-2 text-xs"
                 >
-                    <a href="#">Vue</a>
+                    <a href="#">Frontend</a>
                 </li>
             </ul>
             <div class="text-lg mt-4">
