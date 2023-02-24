@@ -22,7 +22,7 @@ class DatabaseSeeder extends Seeder
 
      \App\Models\User::factory(5)->create();
 
-    Listing::factory(30)->create();
+    Listing::factory(10)->create();
 
    /*  Listing::create([
         'title' => 'Senior Developer',
