@@ -7,7 +7,7 @@
     <p class="mb-4">Post a gig to find a developer</p>
 </header>
 
-<form method="Post" action="/listings">
+<form method="Post" action="/listings" enctype="multipart/form-data">
     @csrf
     <div class="mb-6">
         <label
@@ -104,7 +104,7 @@
         @enderror
     </div>
 
-    {{-- <div class="mb-6">
+    <div class="mb-6">
         <label for="logo" class="inline-block text-lg mb-2">
             Company Logo
         </label>
@@ -113,7 +113,10 @@
             class="border border-gray-200 rounded p-2 w-full"
             name="logo"
         />
-    </div> --}}
+        @error('logo')
+            <p class="text-red-500 text-xs mt-1"> {{ $message }} </p>
+        @enderror
+    </div>
 
     <div class="mb-6">
         <label
@@ -127,8 +130,7 @@
             name="description"
             rows="10"
             placeholder="Include tasks, requirements, salary, etc"
-        >{{ old('description') }}"
-        </textarea>
+        >{{ old('description') }}</textarea>
         @error('description')
         <p class="text-red-500 text-xs mt-1"> {{ $message }} </p>
     @enderror
