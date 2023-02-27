@@ -1,3 +1,7 @@
+### * Prerequisites
+
+![composer](https://user-images.githubusercontent.com/86321092/221562739-58aca6ce-f403-4d92-86db-272a78de2837.gif)
+
 ### * Built With
 
 [![Laravel][Laravel.com]][Laravel-url]
@@ -38,3 +42,4 @@
 [php-url]: https://www.php.net/
 [visual.com]: https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label&scale=1
 [visual-url]: https://code.visualstudio.com/
+
