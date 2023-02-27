@@ -17,10 +17,14 @@
 ![hampter](https://user-images.githubusercontent.com/86321092/221534029-b3beb583-0e52-42ac-aa71-bb27bb9663bb.gif)
 
 
+### How to run
+* Location the file folder
+* type "cmd" on location of file
+* type into cmd "php artisan migrate" 
+* simple take the information given for the local website
 
 
-
-
+![how to run](https://user-images.githubusercontent.com/86321092/221545134-78058950-20a4-434f-bb69-a706784a2a22.gif)
 
 
 
