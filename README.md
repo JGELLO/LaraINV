@@ -1,6 +1,3 @@
-### This repository is solely for educational purposes
-
-
 ### Built With
 
 * [![Laravel][Laravel.com]][Laravel-url]
@@ -30,7 +27,7 @@
 
 
 
-
+### This repository is solely for educational purposes
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
