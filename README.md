@@ -4,7 +4,7 @@
 ### Built With
 
 * [![Laravel][Laravel.com]][Laravel-url]
-* [![VisualStudioCode][visual-url]
+* [![VisualStudioCode][visual.com]][visual-url]
 
 ### Languages
 
