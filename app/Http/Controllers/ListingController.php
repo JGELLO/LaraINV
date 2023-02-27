@@ -48,7 +48,8 @@ class ListingController extends Controller
             $formFields['logo'] = $request->file('logo')->store('logos', 'public');
         }
 
-
+        $formFields['user_id'] = auth()->id();
+        
         Listing::create($formFields);
 
 
@@ -63,6 +64,12 @@ class ListingController extends Controller
      //Update Listing Data
      public function update(Request $request, Listing $listing) {
         
+        // Maker Sure logged in user is owner
+
+        if($listing->user_id != auth()->id()) {
+            abort(403, 'Unathorized Action');
+        }
+
         $formFields = $request->validate([
             'title' => 'required',
             'company' => ['required'],
@@ -77,6 +84,8 @@ class ListingController extends Controller
             $formFields['logo'] = $request->file('logo')->store('logos', 'public');
         }
 
+        
+
 
         $listing->update($formFields);
 
@@ -86,8 +95,25 @@ class ListingController extends Controller
 
     //Delete Listing
     public function destroy(Listing $listing) {
+
+          // Maker Sure logged in user is owner
+
+          if($listing->user_id != auth()->id()) {
+            abort(403, 'Unathorized Action');
+        }
+
+        
         $listing->delete();
         return redirect('/')->with('message', 'Listing Deleted');
     }
 
+    //Manage Listings
+    public function manage() {
+        return view('listings.manage', ['listings' => auth()->user()->listings()->get()]);
+    }
+
+
+
 }
+
+

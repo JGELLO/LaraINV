@@ -10,7 +10,7 @@
 @endforeach
 
 @else
-<strong><p>Empty Database</p></strong>
+<strong><p>Nothing to Show</p></strong>
 @endunless
 
 </div>
