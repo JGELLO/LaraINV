@@ -1,6 +1,7 @@
 ### Built With
 
 * [![Laravel][Laravel.com]][Laravel-url]
+* [![VisualStudioCode][visual.com]][visual-url]
 
 ### Languages
 
@@ -39,4 +40,6 @@
 [Laravel-url]: https://laravel.com
 [php.com]: https://badgen.net/badge/icon/php?icon=php&label
 [php-url]: https://www.php.net/
+[visual.com]: https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label
+[visual-url]: https://code.visualstudio.com/
 
