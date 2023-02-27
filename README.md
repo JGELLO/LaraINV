@@ -1,6 +1,7 @@
 ### * Prerequisites
-*Composer
-*Updated PHP
+* Composer
+
+* Updated PHP
 
 [![Composerl][composer.com]][composer-url]
 
@@ -46,6 +47,6 @@
 [php-url]: https://www.php.net/
 [visual.com]: https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label&scale=1
 [visual-url]: https://code.visualstudio.com/
-[composer.com]: https://badgen.net/badge/Composer/grey/2.5.4
+[composer.com]: https://badgen.net/badge/Composer/2.5.4/grey
 [composer-url]: https://getcomposer.org/download/
 
