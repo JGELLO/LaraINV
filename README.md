@@ -1,21 +1,21 @@
-### Built With
+### * Built With
 
 [![Laravel][Laravel.com]][Laravel-url]
 
-### Languages
+### * Languages
 
 [![PHP][php.com]][php-url]
 
-### Compiler
+### * Compiler
 
 [![VisualStudioCode][visual.com]][visual-url]
 
 
-### Gif examples
+### * Gif examples
 ![hampter](https://user-images.githubusercontent.com/86321092/221534029-b3beb583-0e52-42ac-aa71-bb27bb9663bb.gif)
 
 
-### How to run
+### * How to run
 * Locate the file folder
 * type "cmd" on location of file
 * type into cmd "php artisan serve" 
@@ -28,7 +28,7 @@
 
 
 
-### This repository is solely for educational purposes
+### * This repository is solely for educational purposes
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
