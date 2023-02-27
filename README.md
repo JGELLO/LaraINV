@@ -8,7 +8,7 @@
 ### Built With
 
 * [![Laravel][Laravel.com]][Laravel-url]
-* [![VisualStudioCode][visual.com]][visual-url]
+* [![VisualStudioCode][visual-url]
 
 ### Languages
 
@@ -16,8 +16,8 @@
 
 
 
+*[![lara][Laravel.com]][Laravel-url]
 
-https://badgen.net/badge/Laravel/red/Blade
 
 
 
@@ -42,4 +42,8 @@ https://badgen.net/badge/Laravel/red/Blade
 [php-url]: https://www.php.net/
 [visual.com]: https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label
 [visual-url]: https://code.visualstudio.com/
+
+
+[visual.com]: https://badgen.net/badge/Laravel/red/Blade
+
 
