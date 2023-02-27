@@ -1,14 +1,14 @@
 ### Built With
 
-* [![Laravel][Laravel.com]][Laravel-url]
+[![Laravel][Laravel.com]][Laravel-url]
 
 ### Languages
 
-* [![PHP][php.com]][php-url]
+[![PHP][php.com]][php-url]
 
 ### Compiler
 
-* [![VisualStudioCode][visual.com]][visual-url]
+[![VisualStudioCode][visual.com]][visual-url]
 
 
 ### Gif examples
