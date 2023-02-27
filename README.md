@@ -1,4 +1,4 @@
-### This repository is solely for training
+### This repository is solely for educational purposes
 
 ![hampter](https://user-images.githubusercontent.com/86321092/221534029-b3beb583-0e52-42ac-aa71-bb27bb9663bb.gif)
 
