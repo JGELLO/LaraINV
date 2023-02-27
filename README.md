@@ -18,7 +18,7 @@
 
 
 ### How to run
-* Location the file folder
+* Locate the file folder
 * type "cmd" on location of file
 * type into cmd "php artisan migrate" 
 * simple take the information given for the local website
