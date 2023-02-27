@@ -20,7 +20,7 @@
 ### How to run
 * Locate the file folder
 * type "cmd" on location of file
-* type into cmd "php artisan migrate" 
+* type into cmd "php artisan serve" 
 * simple take the information given for the local website
 
 
