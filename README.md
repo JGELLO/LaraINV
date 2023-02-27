@@ -1,10 +1,6 @@
 ### This repository is solely for educational purposes
 
 
-
-
-![hampter](https://user-images.githubusercontent.com/86321092/221534029-b3beb583-0e52-42ac-aa71-bb27bb9663bb.gif)
-
 ### Built With
 
 * [![Laravel][Laravel.com]][Laravel-url]
@@ -16,11 +12,9 @@
 
 
 
-*[![lara][Laravel.com]][Laravel-url]
 
-
-
-
+### Gif examples
+![hampter](https://user-images.githubusercontent.com/86321092/221534029-b3beb583-0e52-42ac-aa71-bb27bb9663bb.gif)
 
 
 
@@ -42,8 +36,3 @@
 [php-url]: https://www.php.net/
 [visual.com]: https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label
 [visual-url]: https://code.visualstudio.com/
-
-
-[visual.com]: https://badgen.net/badge/Laravel/red/Blade
-
-
