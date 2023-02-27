@@ -19,7 +19,7 @@
                 theme: {
                     extend: {
                         colors: {
-                            laravel: "#47110d",
+                            laravel: "#4F0D0D",
                         },
                     },
                 },
@@ -30,7 +30,7 @@
     <body class="mb-48">
         <nav class="flex justify-between items-center mb-4">
             <a href="/"
-                ><img class="w-24" src={{ asset('images/lara.png') }} alt="" class="logo"
+                ><img class="w-24" src={{ asset('images/homeicon.png') }} alt="" class="logo"
             /></a>
             <ul class="flex space-x-6 mr-6 text-lg">
                 @auth
