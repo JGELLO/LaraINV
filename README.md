@@ -1,12 +1,10 @@
 ### Built With
 
 * [![Laravel][Laravel.com]][Laravel-url]
-* [![Tailwind][Tailwind.com]][Tailwind-url]
 
 ### Languages
 
 * [![PHP][PHP.com]][PHP-url]
-* [![Blade][Blade.com]][Tailwind-url]
 
 
 <p align="center">
@@ -39,6 +37,6 @@
 
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
-[PHP.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white](https://badgen.net/badge/icon/php?icon=php&label)
-[PHP-url]: https://laravel.com](https://tailwindcss.com/)](https://www.php.net/docs.php)](https://www.php.net/docs.php)
+[PHP.com]: [https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white](https://badgen.net/badge/icon/php?icon=php&label)](https://badgen.net/badge/icon/php?icon=php&label)
+[PHP-url]: [https://laravel.com](https://tailwindcss.com/)](https://www.php.net/docs.php)](https://www.php.net/docs.php)](https://www.php.net/)
 
