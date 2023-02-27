@@ -3,7 +3,7 @@ class="relative h-72 bg-laravel flex flex-col justify-center align-center text-c
 >
 <div
     class="absolute top-0 left-0 w-full h-full opacity-10 bg-no-repeat bg-center"
-    {{-- style="background-image: url('images/lara.png')" --}}
+    style="background-image: url('images/homeicon.png')"
 ></div>
 
 <div class="z-10">
@@ -15,7 +15,7 @@ class="relative h-72 bg-laravel flex flex-col justify-center align-center text-c
     </p> 
     <div>
         <a
-            href="register.html"
+            href="/register"
             class="inline-block border-2 border- text-white py-2 px-4 rounded-xl uppercase mt-2 hover:text-black hover:border-black"
             >Sign Up to List Inventory</a
         >
