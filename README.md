@@ -1,22 +1,22 @@
 ### * Prerequisites
-* Composer
+* Composer.
 
-* Updated PHP
+* Updated PHP.
 
 [![Composerl][composer.com]][composer-url]
 [![Composerl][ph.com]][ph-url]
 
 ![composer](https://user-images.githubusercontent.com/86321092/221562739-58aca6ce-f403-4d92-86db-272a78de2837.gif)
 
-### * Built With
+### * Built With.
 
 [![Laravel][Laravel.com]][Laravel-url]
 
-### * Languages
+### * Languages.
 
 [![PHP][php.com]][php-url]
 
-### * Compiler
+### * Compiler.
 
 [![VisualStudioCode][visual.com]][visual-url]
 
@@ -26,10 +26,10 @@
 
 
 ### * How to run
-* Locate the file folder
-* type "cmd" on location of file
-* type into cmd "php artisan serve" 
-* simple take the information given for the local website
+* Locate the file folder.
+* type "cmd" in location of the file.
+* type into cmd "php artisan serve" to run the local host.
+* simply take the information given and place it in your designated browser.
 
 
 ![how to run](https://user-images.githubusercontent.com/86321092/221545134-78058950-20a4-434f-bb69-a706784a2a22.gif)
@@ -38,7 +38,7 @@
 
 
 
-### * This repository is solely for educational purposes
+### * This repository is solely for educational purposes.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
